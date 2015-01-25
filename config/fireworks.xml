@@ -1,0 +1,77 @@
+<?xml version="1.0" ?>
+<FireworkDisplay>
+  <Firework begin="1000" type="Fountain" colour="0x20FF40" duration="5000">
+    <Position x="0" y="-384"/>
+  </Firework>
+  <Firework begin="2000" type="Fountain" colour="0x4020FF" duration="4000">
+    <Position x="100" y="-384"/>
+  </Firework>
+  <Firework begin="3000" type="Fountain" colour="0xff5099" duration="3000">
+    <Position x="-100" y="-384"/>
+  </Firework>
+
+  <Firework begin="1000" type="Rocket" colour="0xFF2020" duration="1000">
+    <Position x="500" y="-384"/>
+    <Velocity x="-180" y="600"/>
+  </Firework>
+  <Firework begin="2000" type="Rocket" colour="0xFF2020" duration="1000">
+    <Position x="0" y="-384"/>
+    <Velocity x="0" y="600"/>
+  </Firework>
+  <Firework begin="3000" type="Rocket" colour="0xFF2020" duration="1000">
+    <Position x="-500" y="-384"/>
+    <Velocity x="180" y="600"/>
+  </Firework>
+
+  <Firework begin="11000" type="Rocket" colour="0xFFFF20" duration="1000">
+    <Position x="500" y="-384"/>
+    <Velocity x="-180" y="600"/>
+  </Firework>
+  <Firework begin="12000" type="Rocket" colour="0xFF2020" duration="1000">
+    <Position x="0" y="-384"/>
+    <Velocity x="0" y="600"/>
+  </Firework>
+  <Firework begin="13000" type="Rocket" colour="0xFF20FF" duration="1000">
+    <Position x="-500" y="-384"/>
+    <Velocity x="180" y="600"/>
+  </Firework>
+
+
+  <Firework begin="4000" type="Fountain" colour="0xffFF40" duration="5000">
+    <Position x="0" y="-384"/>
+  </Firework>
+  <Firework begin="5000" type="Fountain" colour="0x4020FF" duration="4000">
+    <Position x="-200" y="-384"/>
+  </Firework>
+  <Firework begin="6000" type="Fountain" colour="0xff5099" duration="3000">
+    <Position x="200" y="-384"/>
+  </Firework>
+
+  <Firework begin="7000" type="Fountain" colour="0x20FF40" duration="5000">
+    <Position x="0" y="-384"/>
+  </Firework>
+  <Firework begin="8000" type="Fountain" colour="0x4020FF" duration="4000">
+    <Position x="400" y="-384"/>
+  </Firework>
+  <Firework begin="9000" type="Fountain" colour="0xff5099" duration="3000">
+    <Position x="-400" y="-384"/>
+  </Firework>
+
+  
+  <Firework begin="10000" type="Fountain" colour="0xff8040" duration="1000">
+    <Position x="-450" y="-384"/>
+  </Firework>
+  <Firework begin="10500" type="Fountain" colour="0x40ffFF" duration="1000">
+    <Position x="-220" y="-384"/>
+  </Firework>
+  <Firework begin="11000" type="Fountain" colour="0xffff99" duration="1000">
+    <Position x="0" y="-384"/>
+  </Firework>
+  <Firework begin="11500" type="Fountain" colour="0xff00ff" duration="1000">
+    <Position x="220" y="-384"/>
+  </Firework>
+  <Firework begin="12000" type="Fountain" colour="0x40ffFF" duration="1000">
+    <Position x="450" y="-384"/>
+  </Firework>
+
+</FireworkDisplay>
